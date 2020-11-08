@@ -1,0 +1,21 @@
+[
+    {"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+    {"type":"database","name":"form_prototype"},
+    {"type":"table","name":"Employees","database":"form_prototype","data":
+    [
+    {"employee_id":"1","employee_name":"Bruce Wayne"},
+    {"employee_id":"3","employee_name":"Alfred Pennyworth"},
+    {"employee_id":"4","employee_name":"Master Yi"},
+    {"employee_id":"5","employee_name":"Miss Fortune"},
+    {"employee_id":"6","employee_name":"John Doe"},
+    {"employee_id":"12","employee_name":"Bruce Banner"},
+    {"employee_id":"14","employee_name":"John Cena"}
+    ]
+    }
+    ,{"type":"table","name":"Issues","database":"form_prototype","data":
+    [
+    {"issue_id":"11","employee_id":"0","date":"2020-11-06","issue":"Wuju Style"}
+    ]
+    }
+    ]
+    
