@@ -7,8 +7,8 @@ const ipcRenderer = require('electron').ipcRenderer;
 
 const dbConnection1  = mysql.createConnection({
     host: "localhost",
-    user: "root",
-    password: "root",
+    user: "grace",
+    password: "grace",
     database: "form_prototype"
 })
 
